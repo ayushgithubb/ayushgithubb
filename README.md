@@ -1,6 +1,4 @@
 
-
-preview
 <h1 align="center">Hi 👋, I'm Ayush Gautam</h1>
 <h3 align="center">A "software developer and data science" enthusiast from India</h3>
 
