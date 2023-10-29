@@ -1,18 +1,19 @@
-
 <h1 align="center">Hi 👋, I'm Ayush Gautam</h1>
-<h3 align="center">A "software developer and data science" enthusiast from India</h3>
+<h3 align="center">A "software developer and data science enthusiast" from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushgithubb&label=Profile%20views&color=0e75b6&style=flat" alt="ayushgithubb" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushgithubb" alt="ayushgithubb" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@ayush671300034" target="blank"><img src="https://img.shields.io/twitter/follow/ayush671300034?logo=twitter&style=for-the-badge" alt="ayush671300034" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ayush671300034" target="blank"><img src="https://img.shields.io/twitter/follow/ayush671300034?logo=twitter&style=for-the-badge" alt="ayush671300034" /></a> </p>
+
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 📫 How to reach me **ayush25s9gautam@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@ayush671300034" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayush671300034" height="30" width="40" /></a>
+<a href="https://twitter.com/ayush671300034" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayush671300034" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ayush-gautam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-gautam" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@ayushg20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ayushg20" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ayush25gautam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayush25gautam" height="30" width="40" /></a>
